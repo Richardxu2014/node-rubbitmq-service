@@ -2,6 +2,7 @@
 
 ## 基于 node 的简单 接收和发送 RabbitMQ消息
 Sequelize：  数据库ORM框架 [使用手册](http://docs.sequelizejs.com/manual/installation/getting-started.html)
+
 amqplib： 
 
 
