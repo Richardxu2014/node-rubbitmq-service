@@ -1,0 +1,22 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "",
+  "main": "worker.js",
+  "scripts": {
+    "start": "node ./workers/member-worker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xulq",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "elasticsearch": "^15.1.1",
+    "log4js": "^3.0.5",
+    "mysql2": "^1.6.1",
+    "q": "^1.5.1",
+    "redis": "^2.8.0",
+    "sequelize": "^4.38.1"
+  }
+}
